@@ -76,8 +76,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
 </p>
 <hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 10px;" />
+<div style="display: flex; gap: 20px; color: black; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-00&" alt="Streak Stats" />
 </div>
+
