@@ -76,9 +76,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
 </p>
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" style="width: 300px; height: auto;" />
-  <div style="border-left: 2px solid black; height: 200px; margin: 0 20px;"></div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-00&" alt="Streak Stats" style="width: 320px; height: auto; margin-left: auto;" />
+<div style="display: flex; gap: 20px; color: black; justify-content: right;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-00&" alt="Streak Stats" />
+    <hr>
+
 </div>
 
