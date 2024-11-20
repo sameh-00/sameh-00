@@ -78,7 +78,7 @@
 <hr>
 <div style="display: flex; gap: 20px; color: black; justify-content: right;">
   <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-00&" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-00&" alt="Streak Stats" style="width: 400px; height: auto;" />
     <hr>
 
 </div>
