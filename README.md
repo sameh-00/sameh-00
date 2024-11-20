@@ -113,7 +113,6 @@
 <hr>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" style="width: 450px; height: auto;" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
   <hr style="height: 50px; border: 1px solid #000;" />
   </div>
-
