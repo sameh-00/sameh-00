@@ -115,5 +115,5 @@
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en" alt="GitHub Stats" style="width: 450px; height: auto;" />
   <hr style="height: 50px; border: 1px solid #000;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-00&" alt="Streak Stats" style="width: 450px; height: auto;" />
-</div>
+  </div>
+
