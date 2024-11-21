@@ -2,7 +2,13 @@
   <img alt="Coding" width="800" height="450" src="https://th.bing.com/th/id/R.4e0fba8e2f5ec48b69b5e0a3138bad87?rik=%2fl41wzO44MvraA&pid=ImgRaw&r=0" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sameh Essam 💵</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋;I'm+Sameh+Essam_..💵..;Nice+to+meet+you!😘&center=true&size=30">
+  </a>
+</h1> 
+  
+
 <h3 align="center">
   I am a <span style="color: #0e75b6;">Back-end</span> 🛡️ and <span style="color: #e34c26;">Front-end</span> 🧱 programmer, 
   specialized in <span style="color: #6f42c1;">Web Scraping</span> 🪢 and <span style="color: #f39c12;">Testing</span> 🔧 for websites. from Egypt 🇪🇬.
