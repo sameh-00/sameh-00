@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/sameh-00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋;I'm+Sameh+Essam_..💵..;Nice+to+meet+you!😘&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋;I'm+Sameh+Essam_...;Nice+to+meet+you!😘&center=true&size=30">
   </a>
 </h1> 
   
@@ -18,11 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=sameh-00&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-00" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/aliessa41089460" target="blank">
-    <img src="https://img.shields.io/twitter/follow/aliessa41089460?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> 
-</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0dWcycGhoa3RzaWl4ZzV1Njg0MHVicmN4czJ5dm1tazNkN2I2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
