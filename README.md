@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0dWcycGhoa3RzaWl4ZzV1Njg0MHVicmN4czJ5dm1tazNkN2I2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
-- 🔭 **Currently working on:** My graduation project **Vitalia**  
+- 🔭 **Currently working on:** project **RDP.Company**  
 - 💬 **Ask me about:** Back-end, Front-end, Web Scraping, Testing  
 - 📫 **How to reach me:** [Sam01016595493@gmail.com](mailto:Sam01016595493@gmail.com)  
 - 📱 **WhatsApp:** [+201025832248](https://wa.me/201025832248)  
@@ -84,6 +84,5 @@
 <hr>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-00&show_icons=true&locale=en&theme=tokyonight" alt="Sameh" /></p>
   <hr style="height: 50px; border: 1px solid #000;" />
   </div>
